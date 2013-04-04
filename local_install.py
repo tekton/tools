@@ -3,6 +3,19 @@
 
 	Should use "pip install -r requirements.txt" however it was having some errors on one system so this was created
 
+apt-get install gcc git python-pip nginx python-dev libmemcache-dev mysql-server postgresql postgresql-server-dev-all python-psycopg2-dbg libmcrypt-dev redis-server
+    apt-get install gcc
+    apt-get install git
+    apt-get install python-pip
+    apt-get install nginx
+    apt-get install python-dev
+    apt-get install libmemcache-dev
+    apt-get install mysql-server
+    apt-get install postgresql
+    apt-get install python-psycopg2-dbg
+    apt-get install libmcrypt-dev
+    apt-get install redis-server
+
 '''
 import os
 import subprocess
